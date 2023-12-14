@@ -1,0 +1,17 @@
+.program-container {
+    background-color: red;
+}
+
+.program-represent {
+    background-color: blue;
+}
+
+.program-represent__image {
+    width: 100vw;
+    height: 70vh;
+}
+
+.program__image {
+    width: 180px;
+    height: 270px;
+}
