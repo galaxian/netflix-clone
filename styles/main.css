@@ -3,12 +3,38 @@
 }
 
 .program-represent {
-    background-color: blue;
+    width: 100vw;
+    height: 70vh;
+    position: relative;
 }
 
 .program-represent__image {
     width: 100vw;
     height: 70vh;
+}
+
+.program-info {
+    position: absolute;
+    top: 130px;
+    left: 30px;
+    width: 25vw;
+}
+
+.program-info__title {
+    font-size: 30px;
+}
+
+.program-info__button {
+    background-color: rgba(97, 93, 93, 0.2);
+    border: none;
+    color: #ffffff;
+
+    margin: 10px 0 10px 0;
+    padding: 5px 30px 5px 30px;
+}
+
+.program-info__description {
+    font-size: 10px;
 }
 
 .program__image {
